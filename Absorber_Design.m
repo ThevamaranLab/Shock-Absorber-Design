@@ -1,4 +1,12 @@
-%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                     Author: Abhishek Gupta                          %%%
+%%%                    Title: Research Assistant                        %%%
+%%%                    email: agupta253@wisc.edu                        %%%
+%%%                Advisor: Ramathasan Thevamaran                       %%%
+%%%               Department of Mechanical Engineering                  %%%
+%%%                University of Wisconsin-Madison                      %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc
 clear all
