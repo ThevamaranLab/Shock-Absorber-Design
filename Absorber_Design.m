@@ -10,7 +10,7 @@
 
 clc
 clear all
-close all
+%close all
 set(0,'defaultfigurewindowstyle','docked')
 addpath('F:\MATLAB Tools\Colormaps\Colormaps (5)\Colormaps')
 set(groot,'defaultAxesFontSize',18)
@@ -20,12 +20,12 @@ warning off
 Colors = ([0.5, 0, 0.5;0, 0.5, 0.5;0.5, 0.5, 0;1, 0.5, 0.5;0.529, 0.808, 0.922;1, 0.5, 0.314; 0.902, 0.902, 0.18; 1,0.2,0.3; 0,0.2,0.8]);
 
 %% Input
-%{
+%
 mas = input(['Enter the mass of accelerating object (m) in kg','\n']);
 ac = input(['Enter the peak acceleration (ac) in m/s^2','\n']);
 vi = input(['Enter initial velocity (vi) in m/s','\n']);
 Are_t = input(['Enter a targeted cross section area in m^2','\n']);
-%}
+%{
 mas = 2;
 ac = 1000;
 vi = 4;
